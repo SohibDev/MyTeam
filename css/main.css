@@ -846,6 +846,7 @@ a {
   .result .container ul {
     display: flex;
     align-items: center;
+    justify-content: space-between;
   }
   .result .container ul li {
     width: 350px;
